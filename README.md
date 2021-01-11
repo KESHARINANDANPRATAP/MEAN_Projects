@@ -1,2 +1,2 @@
 # MEAN_Projects
- authentication system in your MEAN stack app
+ authentication system in my MEAN stack app
